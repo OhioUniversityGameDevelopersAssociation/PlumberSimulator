@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: c127def1928af9140928820a9d34832c
+timeCreated: 1458504603
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: calender
+    100002: crayon
+    100004: crayon2
+    100006: crayon5
+    100008: crayon7
+    100010: crayon9
+    100012: desk
+    100014: greenDeskThing
+    100016: lamp
+    100018: penHolder
+    100020: //RootNode
+    100022: wall
+    400000: calender
+    400002: crayon
+    400004: crayon2
+    400006: crayon5
+    400008: crayon7
+    400010: crayon9
+    400012: desk
+    400014: greenDeskThing
+    400016: lamp
+    400018: penHolder
+    400020: //RootNode
+    400022: wall
+    2300000: calender
+    2300002: crayon
+    2300004: crayon2
+    2300006: crayon5
+    2300008: crayon7
+    2300010: crayon9
+    2300012: desk
+    2300014: greenDeskThing
+    2300016: lamp
+    2300018: penHolder
+    2300020: wall
+    3300000: calender
+    3300002: crayon
+    3300004: crayon2
+    3300006: crayon5
+    3300008: crayon7
+    3300010: crayon9
+    3300012: desk
+    3300014: greenDeskThing
+    3300016: lamp
+    3300018: penHolder
+    3300020: wall
+    4300000: desk
+    4300002: greenDeskThing
+    4300004: calender
+    4300006: penHolder
+    4300008: crayon
+    4300010: crayon2
+    4300012: crayon5
+    4300014: crayon7
+    4300016: crayon9
+    4300018: lamp
+    4300020: wall
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
